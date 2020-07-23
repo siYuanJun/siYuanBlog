@@ -4,10 +4,10 @@
 
 # Site
 title: '思远'
-subtitle: 'SiYuanJun'
+subtitle: 'siYuanJun'
 description: '参与博客事业，共享技术成果 ！'
-keywords: '思远博客，SiYuanJun，参与博客事业，共享技术成果 ！'
-author: SiYuanJun
+keywords: '思远博客，siYuanJun，参与博客事业，共享技术成果 ！'
+author: siYuanJun
 language: ch
 timezone: 'Asia/Shanghai'
 
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
