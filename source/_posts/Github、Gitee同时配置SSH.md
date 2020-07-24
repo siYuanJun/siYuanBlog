@@ -1,7 +1,7 @@
 ---
 title: Github、Gitee同时配置SSH
-date: 2019-11-02 18:19:47
-tags: Github Gitee
+date: 2020-2-5
+tags: Github, Gitee
 ---
 
 # 进入ssh目录
