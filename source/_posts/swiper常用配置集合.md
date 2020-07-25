@@ -2,6 +2,8 @@
 title: swiper常用配置集合
 date: 2020-07-24 17:04:45
 tags: swiper
+top_img: 
+cover: 
 ---
 
 ### 导语
