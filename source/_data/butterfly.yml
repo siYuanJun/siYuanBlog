@@ -106,7 +106,7 @@ tag_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/tag-bg.png
 
 # the banner image of category page
 # category page, look like https://xxxxxxxxx.com/categories/butterfly
-category_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/category-bg
+category_img: https://s1.ax1x.com/2020/07/25/aSVpeP.png
 
 # If you are using hexo-douban, you can configure it (如果你有使用 hexo-douban,可配置這個)
 # douban:
@@ -125,7 +125,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://i.loli.net/2019/11/10/bEJsXxewpOGuRD8.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
