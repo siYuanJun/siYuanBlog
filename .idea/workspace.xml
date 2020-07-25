@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dcb889c2-0c7b-468b-bd2a-8dc3c74019f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/butterfly.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Butterfly" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,83 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="butterfly.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="butterfly.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="234">
+              <caret line="155" column="23" lean-forward="true" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vue移动端总结.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/vue移动端总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="232">
-                <caret line="555" lean-forward="true" selection-start-line="555" selection-end-line="555" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="欢迎进入思远博客.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PHP函数file_get_contents()使用https协议时报错.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="40">
-                <caret line="2" column="10" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/tags/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/music/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/categories/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="80">
-                <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="128" selection-start-line="128" selection-end-line="128" />
             </state>
           </provider>
         </entry>
@@ -103,10 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>author_name</find>
-      <find>dec</find>
-      <find>abbrlink</find>
-      <find>movies</find>
       <find>error_404</find>
       <find>aplayerlrc</find>
       <find>asset_inject</find>
@@ -133,6 +77,10 @@
       <find>category_img</find>
       <find>music</find>
       <find>发掘地址</find>
+      <find>post_wordcount</find>
+      <find>wordcount</find>
+      <find>hexo-wordcount</find>
+      <find>total_wordcount</find>
     </findStrings>
     <replaceStrings>
       <replace>2020/04/29/Nrul5ivTxf3SWje.jpg</replace>
@@ -179,11 +127,11 @@
         <option value="$PROJECT_DIR$/themes/Butterfly/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/failed.md" />
         <option value="$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md" />
-        <option value="$PROJECT_DIR$/source/_data/butterfly.yml" />
         <option value="$PROJECT_DIR$/source/categories/index.md" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/source/_posts/vue移动端总结.md" />
         <option value="$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md" />
+        <option value="$PROJECT_DIR$/source/_data/butterfly.yml" />
       </list>
     </option>
   </component>
@@ -223,47 +171,6 @@
             <path>
               <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="Butterfly" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="Butterfly" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,12 +293,12 @@
       <workItem from="1595606571086" duration="7052000" />
       <workItem from="1595651869253" duration="9293000" />
       <workItem from="1595668846151" duration="2191000" />
-      <workItem from="1595681039513" duration="3177000" />
+      <workItem from="1595681039513" duration="3541000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93243000" />
+    <option name="totallyTimeSpent" value="93607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -409,11 +316,11 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4981884" weight="0.29987293" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50060385" side_tool="true" weight="0.24015248" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49939615" weight="0.19923858" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49939615" weight="0.19822109" />
       <window_info id="npm" order="2" sideWeight="0.28478965" side_tool="true" visible="true" weight="0.1865942" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49879226" visible="true" weight="0.21473952" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49939615" weight="0.23761117" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7152104" visible="true" weight="0.1865942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49879226" visible="true" weight="0.21473952" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49939615" weight="0.27064803" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7152104" visible="true" weight="0.1865942" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -692,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/books/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -735,13 +635,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="133" column="8" lean-forward="true" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Hexo发布博客引用自带图片的方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -788,13 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -822,6 +708,27 @@
             <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="155" column="23" lean-forward="true" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
         </state>
       </provider>
     </entry>
