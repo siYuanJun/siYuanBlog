@@ -13,9 +13,9 @@ menu:
   分类: /categories/ || fa fa-folder-open
 #  友联: /link/ || fa fa-link
 #  关于: /about/ || fa fa-heart
-#  更多||fa fa-list:
-#    - Music || /music/ || fa fa-music
-#    - Movie || /movies/ || fa fa-film
+  更多||fa fa-list:
+    - 音乐 || /music/ || fa fa-music
+    - 视频 || /movies/ || fa fa-film
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -134,7 +134,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 

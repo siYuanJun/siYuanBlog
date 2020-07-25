@@ -129,3 +129,23 @@ search:
 
 local_search:
   enable: true
+
+# 音乐
+aplayer:
+  meting: true
+  asset_inject: false
+
+# 视频
+douban:
+  user: mythsman
+  builtin: true
+  book:
+    title: 'This is my book title'
+    quote: 'This is my book quote'
+  movie:
+    title: '视频'
+    quote: '一个缺口的bai杯子，如果换一个du角度看它，它仍然是zhi圆的。'
+  game:
+    title: 'This is my game title'
+    quote: 'This is my game quote'
+  timeout: 10000

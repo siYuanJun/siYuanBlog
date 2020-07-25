@@ -14,36 +14,32 @@ date: 2020-07-25 13:01:47
 
 当然，也可以使用另一个插件 `hexo-uuid` ，不过我是觉得变成网址没有 `hexo-abbrlink` 好看。
 
-```
-https://www.xxx.com/posts/2f2dd790-1e71-11e6-95e1-ffc09ba0b0
-```
+`https://www.xxx.com/posts/2f2dd790-1e71-11e6-95e1-ffc09ba0b0`
 
 #### hexo-abbrlink
 
-```
-// crc16 & hex
-https://www.xxx.com/posts/3ab2
+1. crc16 & hex
+`https://www.xxx.com/posts/3ab2`
 
-// crc16 & dec
-https://www.xxx.com/posts/12345.html
+2. crc16 & dec
+`https://www.xxx.com/posts/12345.html`
 
-// crc16 & dec
-https://www.xxx.com/posts/9a8b6c4d.html
+3. crc32 & hex
+`https://www.xxx.com/posts/9a8b6c4d.html`
 
-// crc32 & dec
-https://www.xxx.com/posts/1690090958.html
-```
+4. crc32 & dec
+`https://www.xxx.com/posts/1690090958.html`
 
-其中dec表示十进制
-hex表示十六进制
-使用git bash安装 hexo-abbrlink
+其中 dec 表示十进制
+hex 表示十六进制
+使用 git bash 安装 `hexo-abbrlink`
 
 ```
 npm install hexo-abbrlink --save
 ```
 
-更改站点目录的 config.yml
-像我想要让人知道我是用静态网页 就在最后面加上 .html ，所以可加可不加
+更改站点目录的 `config.yml`
+像我想要让人知道我是用静态网页 就在最后面加上 `.html` ，所以可加可不加
 
 ```
 permalink:  posts/:abbrlink.html
@@ -53,9 +49,9 @@ abbrlink:
   rep: hex
 ```
 
-https://www.xxx.com/3ab2
+`https://www.xxx.com/3ab2`
 
-自定义格式
+### 自定义格式
 
 ```
 permalink_defaults:
@@ -66,4 +62,6 @@ permalink: :author_name/:abbrlink
 https://www.xxx.com/siyuanjun/3ab2
 一切端看个人喜好。
 
-参考数据：[siYuanJun-Blog](http://blog.lvtcn.com/)
+### 参考数据：[siYuanJun-Blog](http://blog.lvtcn.com/)
+
+> 发掘链接：https://www.dazhuanlan.com/2019/12/04/5de7c9db4b972
