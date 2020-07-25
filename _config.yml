@@ -15,10 +15,13 @@ timezone: 'Asia/Shanghai'
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.lvtcn.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing index.html from permalinks
+abbrlink:
+  alg: crc16
+  rep: hex
 
 # Directory
 source_dir: source
@@ -123,3 +126,6 @@ search:
   field: post
   content: true
   limit: 10000
+
+local_search:
+  enable: true

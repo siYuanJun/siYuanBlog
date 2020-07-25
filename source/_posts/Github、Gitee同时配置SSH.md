@@ -1,7 +1,8 @@
 ---
 title: Github、Gitee同时配置SSH
 date: 2020-2-5
-tags: Github, Gitee
+tags: 'Github, Gitee'
+abbrlink: 2a2e
 ---
 
 # 进入ssh目录

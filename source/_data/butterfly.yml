@@ -36,8 +36,10 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/xxxxx || Github
-  fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-weibo: https://www.weibo.com/siyuanjituan || Weibo
+# fab fa-qq: https://github.com/siyuanjun || QQ
+  fab fa-github: https://github.com/siyuanjun || Github
+  fas fa-envelope: mailto:siyuanjunr@qq.com || Email
 
 # search (搜索)
 # --------------------------------------
@@ -55,7 +57,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result

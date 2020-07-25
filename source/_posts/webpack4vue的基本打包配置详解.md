@@ -2,6 +2,7 @@
 title: webpack4+vue 的基本打包配置详解
 date: 2020.6.2
 tags: webpack4，vue
+abbrlink: a61b
 ---
 
 前提：确保已安装node，为了安装速度快一些，使用cnpm源，安装cnpm：npm i cnpm -g

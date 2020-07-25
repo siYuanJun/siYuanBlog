@@ -1,7 +1,8 @@
 ---
 title: 如何升级centos到最新版本
 date: 2020-6-11
-tags: Linux, centos, 版本升级
+tags: 'Linux, centos, 版本升级'
+abbrlink: 32b6
 ---
 
 本文将教你如何升级centos到最新版本。

@@ -1,7 +1,8 @@
 ---
 title: 关于Less常用函数介绍
 date: 2020-6-13
-tags: css, Less
+tags: 'css, Less'
+abbrlink: 43ff
 ---
 
 ```

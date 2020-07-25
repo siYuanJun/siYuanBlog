@@ -1,7 +1,8 @@
 ---
 title: 自定义滚动条mCustomScrollbar
+tags: 'Jquery, 滚动条'
+abbrlink: b5ef
 date: 2020-07-23 14:21:11
-tags: Jquery, 滚动条
 ---
 
 ### 参考地址
