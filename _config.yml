@@ -8,7 +8,7 @@ subtitle: 'siYuanJun'
 description: '参与博客事业，共享技术成果 ！'
 keywords: '思远博客，siYuanJun，参与博客事业，共享技术成果 ！'
 author: siYuanJun
-language: ch
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -138,7 +138,7 @@ aplayer:
 # 视频
 douban:
   user: mythsman
-  builtin: true
+  builtin: false
   book:
     title: 'This is my book title'
     quote: 'This is my book quote'

@@ -54,7 +54,7 @@ vmax : 选取 vw 和 vh 中的较大值
 
 和rem相比较，视口单位不需要使用js对根元素进行设置，兼容性稍差，但是大部分设备都已经支持了，同样的无须再开发时进行单位换算，直接使用相关的插件 [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) 在输出的时候进行转换。
 
-![](https://upload-images.jianshu.io/upload_images/784106-8eb28084021e16df?imageMogr2/auto-orient/strip|imageView2/2/format/jpg)
+{% asset_img 784106-8eb28084021e16df.jpg %}
 
 修改viewport
 之前我们提到了 `layoutviewport` 布局宽度实际上不是一个固定值，而是通过 `meta` 设置属性，通过 `idealviewport` 计算出来的值，我们可以通过控制 meta 的属性来将 `layoutviewport` 固定为某一个值。一般设计图的宽度为750px，现在我们的目标就是将 `layoutviewport` 设置为750px；`layoutviewport` 受到两个属性的影响，width属性我们之间设置为750，initial-scale缩放比例应该为 `idealviewport` 的宽度/750；当我们未改变meta标签属性的时候，`layoutviewport` 的值其实就是 `idealviewport` 的值，所以可以通过 `document.body.clientWidth` 或者 `window.innerWidth` 来获取。
@@ -83,19 +83,19 @@ vmax : 选取 vw 和 vh 中的较大值
 iOS弹出键盘；软键盘唤起后，页面的 fixed元素将失效（iOS认为用户更希望的是元素随着滚动而移动，也就是变成了 absolute 定位），既然变成了absolute，所以当页面超过一屏且滚动时，失效的 fixed 元素就会跟随滚动了。
 当元素祖先的 transform 属性非 none 时，定位容器由视口改为该祖先。说的简单点，就是 `position:fixed` 的元素会相对于最近的并且应用了transform的祖先元素定位，而不是窗口。导致这个现象的原因是使用了transform的元素将创建一个新的堆叠上下文。堆叠上下文（Stacking Context）：堆叠上下文是 HTML 元素的三维概念，这些 HTML 元素在一条假想的相对于面向（电脑屏幕的）视窗或者网页的用户的 z 轴上延伸，HTML 元素依据其自身属性按照优先级顺序占用层叠上下文的空间。顺序如下图所示，总之堆叠上下文会对定位关系产生影响。想要进一步可以查看 [不受控制的position:fixed](https://www.cnblogs.com/coco1s/p/7358830.html)。
 
-![](https://upload-images.jianshu.io/upload_images/784106-36f1cda572e4c34a?imageMogr2/auto-orient/strip|imageView2/2/format/jpg)
+{% asset_img 784106-36f1cda572e4c34a.jpg %}
 
 > 键盘弹出与使用transform属性的情况在移动端是很常见的，所以需要谨慎使用 `position:fixed`。
 
 ### 推荐使用flex
 
-![](https://upload-images.jianshu.io/upload_images/784106-a9de29f8291de0fd?imageMogr2/auto-orient/strip|imageView2/2/format/jpg)
+{% asset_img 784106-a9de29f8291de0fd.jpg %}
 
 flex，即弹性布局，移动端兼容性较好，能够满足大部分布局需求。现在我们使用flex来实现h5中常见的顶部标题栏+中部滚动内容+底部导航栏的布局；实现效果如下：
 
-![](https://upload-images.jianshu.io/upload_images/784106-49fef3330b74955c?imageMogr2/auto-orient/strip|imageView2/2/format/jpg)
+{% asset_img 784106-49fef3330b74955c.jpg %}
 
-首先我们来实现整体的布局，整体布局应该是一个方向为flex-direction: column;并且占据整个窗口的弹性盒子，然后里面的布局，应该是首尾为固定高度，中间内容区域为flex: 1;。
+首先我们来实现整体的布局，整体布局应该是一个方向为 flex-direction: column; 并且占据整个窗口的弹性盒子，然后里面的布局，应该是首尾为固定高度，中间内容区域为flex: 1;。
 
 ```
 html, body {
@@ -259,7 +259,7 @@ export default {
 </script>
 ```
 
-![](https://upload-images.jianshu.io/upload_images/784106-a6816f254ce7840a?imageMogr2/auto-orient/strip|imageView2/2/w/400/format/jpg)
+{% asset_img 784106-a6816f254ce7840a.jpg %}
 
 虽然这样能够实现跳转效果，但是需要在编写router时添加设置，比较麻烦；我们可以使用开源项目 vue-navigation 来实现，更加方便，无须对 router 进行多余的设置。npm i -S vue-navigation 安装，在 main.js 中导入：
 
