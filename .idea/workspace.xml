@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dcb889c2-0c7b-468b-bd2a-8dc3c74019f6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_data/butterfly.yml" beforeDir="false" afterPath="$PROJECT_DIR$/source/_data/butterfly.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/实验代码整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/实验代码整理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Butterfly" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,47 +18,55 @@
     <favorites_list name="siyuanblog" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="实验代码整理.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="实验代码整理.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/实验代码整理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="实用手机菜单css.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/实用手机菜单css.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="48" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="butterfly.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="98" column="58" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zh-CN.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/Butterfly/languages/zh-CN.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Laravel项目，关于locale报错.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Laravel项目，关于locale报错.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="20">
-                <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vue移动端总结.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/vue移动端总结.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="40">
-                <caret line="2" selection-start-line="2" selection-end-line="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack4vue的基本打包配置详解.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/webpack4vue的基本打包配置详解.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="如何升级centos到最新版本.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/如何升级centos到最新版本.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="40">
-                <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+                <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,10 +77,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>a9de29f8291de0fd</find>
-      <find>这是一个新的博客</find>
-      <find>784106-36f1cda572e4c34a</find>
-      <find>虽然这样能够实现跳转效果，但是需要在编写router时添加设置，比较麻烦</find>
       <find>784106-49fef3330b74955c</find>
       <find>784106-a6816f254ce7840a</find>
       <find>jianshu</find>
@@ -96,6 +103,10 @@
       <find>cate</find>
       <find>music</find>
       <find>product-slide</find>
+      <find>http</find>
+      <find>nav-outer</find>
+      <find>https://s1.ax1x.com/2020/07/25/aSS99x.jpg</find>
+      <find>公告</find>
     </findStrings>
     <replaceStrings>
       <replace>2020/04/29/Nrul5ivTxf3SWje.jpg</replace>
@@ -142,12 +153,10 @@
         <option value="$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md" />
         <option value="$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/Butterfly/languages/zh-CN.yml" />
         <option value="$PROJECT_DIR$/themes/Butterfly/languages/default.yml" />
         <option value="$PROJECT_DIR$/source/_posts/Hexo发布博客引用自带图片的方法.md" />
         <option value="$PROJECT_DIR$/source/_posts/vue移动端总结.md" />
         <option value="$PROJECT_DIR$/source/_posts/input便签插件.md" />
-        <option value="$PROJECT_DIR$/source/_data/butterfly.yml" />
         <option value="$PROJECT_DIR$/source/tags/index.md" />
         <option value="$PROJECT_DIR$/source/categories/index.md" />
         <option value="$PROJECT_DIR$/source/music/index.md" />
@@ -156,6 +165,10 @@
         <option value="$PROJECT_DIR$/source/_posts/经典联系我们模块组件.md" />
         <option value="$PROJECT_DIR$/source/_posts/flipster环形滚动插件.md" />
         <option value="$PROJECT_DIR$/source/_posts/实验代码整理.md" />
+        <option value="$PROJECT_DIR$/source/_posts/实用手机菜单css.md" />
+        <option value="$PROJECT_DIR$/themes/Butterfly/languages/zh-CN.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/Laravel项目，关于locale报错.md" />
+        <option value="$PROJECT_DIR$/source/_data/butterfly.yml" />
       </list>
     </option>
   </component>
@@ -189,17 +202,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
@@ -215,13 +224,18 @@
               <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="siyuanblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="siyuanblog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,12 +366,18 @@
       <workItem from="1596793447041" duration="1535000" />
       <workItem from="1597113362111" duration="1211000" />
       <workItem from="1597995728730" duration="2863000" />
-      <workItem from="1598259520581" duration="414000" />
+      <workItem from="1598259520581" duration="506000" />
+      <workItem from="1598260663930" duration="686000" />
+      <workItem from="1598693298982" duration="1279000" />
+      <workItem from="1598941840567" duration="2825000" />
+      <workItem from="1599210819233" duration="1124000" />
+      <workItem from="1599212809516" duration="620000" />
+      <workItem from="1599461799772" duration="3453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137648000" />
+    <option name="totallyTimeSpent" value="147727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,11 +395,11 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4981884" weight="0.22091782" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50060385" side_tool="true" weight="0.24015248" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49939615" weight="0.23585913" />
-      <window_info id="npm" order="2" sideWeight="0.26041666" side_tool="true" visible="true" weight="0.19505495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49879226" visible="true" weight="0.18036287" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49939615" weight="0.25186765" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7395833" visible="true" weight="0.19505495" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49939615" weight="0.17395945" />
+      <window_info active="true" id="npm" order="2" sideWeight="0.26902175" side_tool="true" visible="true" weight="0.17788461" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49879226" visible="true" weight="0.2145144" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49939615" weight="0.24226254" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73097825" visible="true" weight="0.17788461" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.27758622" side_tool="true" weight="0.2294686" />
@@ -437,18 +457,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/Butterfly/source/css/_tags/hide.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Butterfly/source/css/var.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1200" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/Butterfly/source/css/_tags/button.styl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -516,16 +524,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="10" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/Butterfly/layout/includes/chat/chatra.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-94">
@@ -567,13 +565,6 @@
     <entry file="file://$PROJECT_DIR$/themes/Butterfly/languages/zh-TW.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Butterfly/languages/zh-CN.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/search.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -598,16 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/swiper常用配置集合.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -619,13 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -659,31 +633,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/关于Less常用函数介绍.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/欢迎进入思远博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="80">
             <caret line="4" column="14" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/动起来的滚屏网站.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -773,7 +727,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/PHP函数file_get_contents()使用https协议时报错.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="40">
+            <caret line="2" selection-start-line="2" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/动起来的滚屏网站.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/如何升级centos到最新版本.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/关于Less常用函数介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="40">
@@ -801,13 +785,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/实验代码整理.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/swiper常用配置集合.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" selection-start-line="6" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Butterfly/languages/zh-CN.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Laravel项目，关于locale报错.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="20">
-            <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/实用手机菜单css.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/实验代码整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_data/butterfly.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="98" column="58" selection-start-line="98" selection-start-column="58" selection-end-line="98" selection-end-column="58" />
         </state>
       </provider>
     </entry>
