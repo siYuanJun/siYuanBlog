@@ -14,6 +14,8 @@ Symfony\Component\Debug\Exception\FatalErrorException
 Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale)
 ```
 
+> 首先先检查 Composer PHP 版本 是否和项目一致，Laravel 6.0 系统以上必须保持一致，调整后可以先刷新看下，如不行在进行下面操作！
+
 ### 解决方案
 
 1. 打开项目根目录下的 composer.json 文件

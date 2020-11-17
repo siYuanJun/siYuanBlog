@@ -11,7 +11,7 @@ abbrlink: 2a2e
 cd ~/.ssh
 ```
 
-# 使用命令分别创建两个平台的公钥
+# 使用命令分别创建两个平台的公钥 windows ssh-keygen
 
 ```
 ssh-keyen -t rsa -C "xxxxxx@xxx.com" -f "id_rsa_gitee"
